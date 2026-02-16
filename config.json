@@ -1,10 +1,14 @@
 {
-  "username": "dakshvatss",
+  "username": "keshavashiya",
   "repo": "readinglist",
   "sources": {
     "devto": {
       "enabled": true,
       "username": "dakshvatss"
+    }
+    ,"dailydev": {
+      "enabled": false,
+      "rssUrl": ""
     }
   },
   "ui": {
@@ -16,7 +20,7 @@
     }
   },
   "sync": {
-    "schedule": "0 5 * * *",
+    "schedule": "48 4 * * *",
     "maxArticles": 50
   }
 }

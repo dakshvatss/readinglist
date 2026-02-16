@@ -9,7 +9,8 @@
     "fetch:devto": "node scripts/fetch-devto.js",
     "fetch:dailydev": "node scripts/fetch-dailydev.js",
     "build": "cd frontend && npm run build",
-    "deploy": "npm run build && gh-pages -d frontend/dist",
+    "copy-data": "node scripts/copy-data.js",
+    "deploy": "npm run build && npm run copy-data && gh-pages -d frontend/dist",
     "predeploy": "npm run build"
   },
   "dependencies": {

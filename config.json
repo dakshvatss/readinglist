@@ -8,7 +8,7 @@
     },
     "dailydev": {
       "enabled": true,
-      "rssUrl": ""
+      "rssUrl": "https://api.daily.dev/rss/@dakshvatss"
     }
   },
   "ui": {

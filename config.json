@@ -5,22 +5,18 @@
     "devto": {
       "enabled": true,
       "username": "dakshvatss"
-    },
-    "dailydev": {
-      "enabled": true,
-      "rssUrl": "https://api.daily.dev/rss/@dakshvatss"
     }
   },
   "ui": {
     "title": "Daksh's Reading List",
-    "description": "Articles and bookmarks I'm reading from dev.to and daily.dev",
+    "description": "Articles and bookmarks I'm reading from dev.to",
     "theme": {
       "primary": "#3b82f6",
       "secondary": "#64748b"
     }
   },
   "sync": {
-    "schedule": "0 8 * * *",
+    "schedule": "0 5 * * *",
     "maxArticles": 50
   }
 }

@@ -3,7 +3,7 @@ name: Sync Reading List
 on:
   schedule:
     # Run daily at  4:26 AM UTC
-    - cron: '26 4 * * *'
+    - cron: '00 5 * * *'
   workflow_dispatch:
     # Allow manual trigger
   push:

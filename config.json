@@ -1,10 +1,10 @@
 {
-  "username": "keshavashiya",
+  "username": "dakshvatss",
   "repo": "readinglist",
   "sources": {
     "devto": {
       "enabled": true,
-      "username": "keshavashiya"
+      "username": "dakshvatss"
     },
     "dailydev": {
       "enabled": true,
@@ -12,7 +12,7 @@
     }
   },
   "ui": {
-    "title": "Keshav's Reading List",
+    "title": "Daksh's Reading List",
     "description": "Articles and bookmarks I'm reading from dev.to and daily.dev",
     "theme": {
       "primary": "#3b82f6",

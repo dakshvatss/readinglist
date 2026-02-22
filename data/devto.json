@@ -1,0 +1,48 @@
+{
+  "last_updated": "2026-02-22T05:48:21.803Z",
+  "count": 2,
+  "articles": [
+    {
+      "id": 3222108,
+      "title": "What was your win this week??",
+      "description": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+      "url": "https://dev.to/devteam/what-was-your-win-this-week-a3a",
+      "published_at": "2026-02-13T13:00:00Z",
+      "reading_time": 1,
+      "author": {
+        "name": "Jess Lee",
+        "username": "jess",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F264%2Fb75f6edf-df7b-406e-a56b-43facafb352c.jpg"
+      },
+      "tags": [
+        "weeklyretro",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9fpmjyiv4clt7z61sb1.jpg",
+      "source": "dev.to",
+      "saved_at": "2026-02-16T04:37:19Z"
+    },
+    {
+      "id": 3250014,
+      "title": "I Built a SaaS in 30 Days. Here’s Exactly What Happened.",
+      "description": "Thirty days ago I had:   No landing page  No logo  No users  No idea if anyone cared    Today I...",
+      "url": "https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8",
+      "published_at": "2026-02-12T02:30:00Z",
+      "reading_time": 3,
+      "author": {
+        "name": "Gian Soriano",
+        "username": "thegiansorianodev",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3713836%2Fec115713-525c-44b4-8e23-f774790d4e82.jpg"
+      },
+      "tags": [
+        "buildinpublic",
+        "saas",
+        "webdev",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18su5m67thu626bbf1pc.png",
+      "source": "dev.to",
+      "saved_at": "2026-02-16T04:34:31Z"
+    }
+  ]
+}
